@@ -1,0 +1,9 @@
+*~
+*tmp
+*test*
+*.cxx
+*.txt
+*.log
+
+__pycache__
+levenshtein.py
