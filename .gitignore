@@ -4,6 +4,8 @@
 *.cxx
 *.txt
 *.log
+*.so
+*.o
 
 __pycache__
 levenshtein.py
